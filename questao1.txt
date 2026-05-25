@@ -1,174 +1,79 @@
-=== Coleta de Dados - Acidentes de Transito 2007 ===
 
---- Estado 1 de 26 ---
-Nome do estado           : Acre
-Numero de veiculos       : 150000
-Numero de acidentes      : 1200
-
---- Estado 2 de 26 ---
-Nome do estado           : Alagoas
-Numero de veiculos       : 600000
-Numero de acidentes      : 3100
-
---- Estado 3 de 26 ---
-Nome do estado           : Amapa
-Numero de veiculos       : 200000
-Numero de acidentes      : 950
-
---- Estado 4 de 26 ---
-Nome do estado           : Amazonas
-Numero de veiculos       : 750000
-Numero de acidentes      : 4200
-
---- Estado 5 de 26 ---
-Nome do estado           : Bahia
-Numero de veiculos       : 3200000
-Numero de acidentes      : 18000
-
---- Estado 6 de 26 ---
-Nome do estado           : Ceara
-Numero de veiculos       : 2100000
-Numero de acidentes      : 12500
-
---- Estado 7 de 26 ---
-Nome do estado           : Distrito Federal
-Numero de veiculos       : 1400000
-Numero de acidentes      : 9800
-
---- Estado 8 de 26 ---
-Nome do estado           : Espirito Santo
-Numero de veiculos       : 1100000
-Numero de acidentes      : 7600
-
---- Estado 9 de 26 ---
-Nome do estado           : Goias
-Numero de veiculos       : 2300000
-Numero de acidentes      : 14500
-
---- Estado 10 de 26 ---
-Nome do estado           : Maranhao
-Numero de veiculos       : 900000
-Numero de acidentes      : 5400
-
---- Estado 11 de 26 ---
-Nome do estado           : Mato Grosso
-Numero de veiculos       : 1000000
-Numero de acidentes      : 7200
-
---- Estado 12 de 26 ---
-Nome do estado           : Mato Grosso do Sul
-Numero de veiculos       : 850000
-Numero de acidentes      : 6100
-
---- Estado 13 de 26 ---
-Nome do estado           : Minas Gerais
-Numero de veiculos       : 7800000
-Numero de acidentes      : 42000
-
---- Estado 14 de 26 ---
-Nome do estado           : Para
-Numero de veiculos       : 1300000
-Numero de acidentes      : 8500
-
---- Estado 15 de 26 ---
-Nome do estado           : Paraiba
-Numero de veiculos       : 700000
-Numero de acidentes      : 4100
-
---- Estado 16 de 26 ---
-Nome do estado           : Parana
-Numero de veiculos       : 4500000
-Numero de acidentes      : 27000
-
---- Estado 17 de 26 ---
-Nome do estado           : Pernambuco
-Numero de veiculos       : 2400000
-Numero de acidentes      : 13800
-
---- Estado 18 de 26 ---
-Nome do estado           : Piaui
-Numero de veiculos       : 500000
-Numero de acidentes      : 2900
-
---- Estado 19 de 26 ---
-Nome do estado           : Rio de Janeiro
-Numero de veiculos       : 5600000
-Numero de acidentes      : 31000
-
---- Estado 20 de 26 ---
-Nome do estado           : Rio Grande do Norte
-Numero de veiculos       : 750000
-Numero de acidentes      : 4300
-
---- Estado 21 de 26 ---
-Nome do estado           : Rio Grande do Sul
-Numero de veiculos       : 5100000
-Numero de acidentes      : 28500
-
---- Estado 22 de 26 ---
-Nome do estado           : Rondonia
-Numero de veiculos       : 400000
-Numero de acidentes      : 3200
-
---- Estado 23 de 26 ---
-Nome do estado           : Roraima
-Numero de veiculos       : 120000
-Numero de acidentes      : 800
-
---- Estado 24 de 26 ---
-Nome do estado           : Santa Catarina
-Numero de veiculos       : 3800000
-Numero de acidentes      : 22000
-
---- Estado 25 de 26 ---
-Nome do estado           : Sao Paulo
-Numero de veiculos       : 18000000
-Numero de acidentes      : 95000
-
---- Estado 26 de 26 ---
-Nome do estado           : Sergipe
-Numero de veiculos       : 550000
-Numero de acidentes      : 3500
-
---- Extremos de Acidentes de Transito ---
-Maior numero de acidentes : Sao Paulo (95000 acidentes)
-Menor numero de acidentes : Roraima (800 acidentes)
-
---- Percentual de Veiculos Envolvidos em Acidentes ---
-Acre                           : 0.8000%
-Alagoas                        : 0.5167%
-Amapa                          : 0.4750%
-Amazonas                       : 0.5600%
-Bahia                          : 0.5625%
-Ceara                          : 0.5952%
-Distrito Federal               : 0.7000%
-Espirito Santo                 : 0.6909%
-Goias                          : 0.6304%
-Maranhao                       : 0.6000%
-Mato Grosso                    : 0.7200%
-Mato Grosso do Sul             : 0.7176%
-Minas Gerais                   : 0.5385%
-Para                           : 0.6538%
-Paraiba                        : 0.5857%
-Parana                         : 0.6000%
-Pernambuco                     : 0.5750%
-Piaui                          : 0.5800%
-Rio de Janeiro                 : 0.5536%
-Rio Grande do Norte            : 0.5733%
-Rio Grande do Sul              : 0.5588%
-Rondonia                       : 0.8000%
-Roraima                        : 0.6667%
-Santa Catarina                 : 0.5789%
-Sao Paulo                      : 0.5278%
-Sergipe                        : 0.6364%
-
---- Media Nacional de Acidentes ---
-Media: 16619.23 acidentes por estado
-
---- Estados Acima da Media ---
-Minas Gerais                   : 42000 acidentes
-Parana                         : 27000 acidentes
-Rio de Janeiro                 : 31000 acidentes
-Rio Grande do Sul              : 28500 acidentes
-Santa Catarina                 : 22000 acidentes
-Sao Paulo                      : 95000 acidentes
+Acre
+150000
+1200
+Alagoas
+600000
+3100
+Amapa
+200000
+950
+Amazonas
+750000
+4200
+Bahia
+3200000
+18000
+Ceara
+2100000
+12500
+Distrito Federal
+1400000
+9800
+Espirito Santo
+1100000
+7600
+Goias
+2300000
+14500
+Maranhao
+900000
+5400
+Mato Grosso
+1000000
+7200
+Mato Grosso do Sul
+850000
+6100
+Minas Gerais
+7800000
+42000
+Para
+1300000
+8500
+Paraiba
+700000
+4100
+Parana
+4500000
+27000
+Pernambuco
+2400000
+13800
+Piaui
+500000
+2900
+Rio de Janeiro
+5600000
+31000
+Rio Grande do Norte
+750000
+4300
+Rio Grande do Sul
+5100000
+28500
+Rondonia
+400000
+3200
+Roraima
+120000
+800
+Santa Catarina
+3800000
+22000
+Sao Paulo
+18000000
+95000
+Sergipe
+550000
+3500
